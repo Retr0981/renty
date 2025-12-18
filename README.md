@@ -6,9 +6,3 @@
 
 👉 Live Demo: <a href='https://ai-image-generator2.vercel.app/'>Live Demo</a>
 
-<h3>Build with:</h3>
-
-» Sass / Scss <br>
-» React JS
-
-</div>
